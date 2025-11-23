@@ -202,6 +202,11 @@ Built with Passion by the NexoraFlow Team
 
 ---
 
+## 🌐 Live Deployment
+
+🚀 **View Live App:** https://nexoraflow-app.vercel.app
+
+
 ## 👤 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Manikandan-official)
